@@ -186,6 +186,12 @@ ${recent}
 `;
 
     fs.writeFileSync(path.join(__dirname, "..", "README.md"), text);
+    // The org page reads profile/README.md and can't resolve relative paths, so its assets are linked from main.
+    fs.mkdirSync(path.join(__dirname, "..", "profile"), { recursive: true });
+    fs.writeFileSync(
+        path.join(__dirname, "..", "profile", "README.md"),
+        text.replaceAll('src="assets/', `src="https://raw.githubusercontent.com/${ORG}/.github/main/assets/`),
+    );
 };
 
 main().catch((err) => {
