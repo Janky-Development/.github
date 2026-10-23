@@ -1,0 +1,22 @@
+{
+  "name": "janky-dev-github",
+  "version": "1.0.0",
+  "description": "Janky Development org profile README generator",
+  "main": "src/update.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Janky-Development/.github"
+  },
+  "author": "Janky Development",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node src/update.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

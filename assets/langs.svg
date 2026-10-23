@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="102" viewBox="0 0 800 102" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">
+  <g transform="translate(0 0)">
+    <rect width="800" height="102" rx="12" fill="#1a1b27"/>
+    <path d="M0 12a12 12 0 0 1 12-12h776a12 12 0 0 1 12 12v24H0z" fill="#24283b"/>
+    <circle cx="24" cy="18" r="6" fill="#f7768e"/><circle cx="46" cy="18" r="6" fill="#e0af68"/><circle cx="68" cy="18" r="6" fill="#9ece6a"/>
+    <text x="400" y="23" text-anchor="middle" font-size="13" fill="#565f89">~/repos: languages</text>
+    <text x="24" y="68" fill="#c0caf5">Java</text><rect x="150" y="56" width="520" height="14" rx="3" fill="#7aa2f7"/><text x="680" y="68" fill="#565f89">1</text>
+  </g>
+</svg>

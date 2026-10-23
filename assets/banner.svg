@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect width="800" height="220" rx="12" fill="#1a1b27"/>
+  <path d="M0 12a12 12 0 0 1 12-12h776a12 12 0 0 1 12 12v24H0z" fill="#24283b"/>
+  <circle cx="24" cy="18" r="6" fill="#f7768e"/><circle cx="46" cy="18" r="6" fill="#e0af68"/><circle cx="68" cy="18" r="6" fill="#9ece6a"/>
+  <text x="400" y="23" text-anchor="middle" font-size="13" fill="#565f89">janky-dev@org: ~</text>
+  <text x="32" y="78" font-size="16" fill="#9ece6a">$ <tspan fill="#c0caf5">cat about.md</tspan></text>
+  <text x="32" y="130" font-size="52" font-weight="700" fill="#f4c430">JANKY<tspan fill="#7aa2f7"> / DEV</tspan></text>
+  <text x="32" y="168" font-size="16" fill="#9aa5ce">we build plugins. they mostly work.</text>
+  <text x="32" y="198" font-size="16" fill="#9ece6a">$ <tspan fill="#f4c430">_</tspan><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></text>
+</svg>
