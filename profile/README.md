@@ -7,7 +7,7 @@
 <a href="https://janky.fpp.wtf"><img src="https://img.shields.io/badge/-Website-1a1b27?style=for-the-badge&logo=googlechrome&logoColor=f4c430" alt="Website" /></a>
 <a href="https://discord.gg/pzFQWA4TXq"><img src="https://img.shields.io/badge/-Discord-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
 <img src="https://img.shields.io/github/followers/Janky-Development?style=for-the-badge&labelColor=1a1b27&color=7aa2f7" alt="Followers" />
-<img src="https://img.shields.io/badge/stars%20earned-8-e0af68?style=for-the-badge&labelColor=1a1b27" alt="Stars earned" />
+<img src="https://img.shields.io/badge/stars%20earned-9-e0af68?style=for-the-badge&labelColor=1a1b27" alt="Stars earned" />
 
 </div>
 
@@ -60,8 +60,8 @@ Janky Dev isn't a studio: no investors, no Jira board silently judging us. A sma
 | Repo | Language | Stars | Last push |
 | ---- | -------- | ----- | --------- |
 | [.github](https://github.com/Janky-Development/.github) | JavaScript | ⭐ 0 | today |
-| [Scripted-SMP-Core-Public](https://github.com/Janky-Development/Scripted-SMP-Core-Public) | - | ⭐ 0 | 2 days ago |
-| [Fake-Player-plugin-2.0](https://github.com/Janky-Development/Fake-Player-plugin-2.0) | Java | ⭐ 8 | 2 days ago |
+| [Scripted-SMP-Core-Public](https://github.com/Janky-Development/Scripted-SMP-Core-Public) | - | ⭐ 0 | 3 days ago |
+| [Fake-Player-plugin-2.0](https://github.com/Janky-Development/Fake-Player-plugin-2.0) | Java | ⭐ 9 | 3 days ago |
 
 ## 📊 Languages
 
@@ -69,7 +69,7 @@ Janky Dev isn't a studio: no investors, no Jira board silently judging us. A sma
 
 <div align="center">
 
-<!-- Last updated on Mon Oct 26 2026 02:52:09 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Mon Oct 26 2026 12:07:53 GMT+0000 (Coordinated Universal Time) ;-;-->
 <sub>last updated 26th October 2026 using magic · <a href="https://github.com/Janky-Development">@Janky-Development</a></sub>
 
 </div>
