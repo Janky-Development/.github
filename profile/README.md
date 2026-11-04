@@ -59,10 +59,10 @@ Janky Dev isn't a studio: no investors, no Jira board silently judging us. A sma
 
 | Repo | Language | Stars | Last push |
 | ---- | -------- | ----- | --------- |
+| [Janky-Paper](https://github.com/Janky-Development/Janky-Paper) | Java | ⭐ 0 | today |
 | [.github](https://github.com/Janky-Development/.github) | JavaScript | ⭐ 0 | today |
-| [Janky-Paper](https://github.com/Janky-Development/Janky-Paper) | Java | ⭐ 0 | yesterday |
-| [Fake-Player-plugin-2.0](https://github.com/Janky-Development/Fake-Player-plugin-2.0) | Java | ⭐ 10 | 3 days ago |
-| [Scripted-SMP-Core-Public](https://github.com/Janky-Development/Scripted-SMP-Core-Public) | - | ⭐ 0 | 3 days ago |
+| [Fake-Player-plugin-2.0](https://github.com/Janky-Development/Fake-Player-plugin-2.0) | Java | ⭐ 10 | 4 days ago |
+| [Scripted-SMP-Core-Public](https://github.com/Janky-Development/Scripted-SMP-Core-Public) | - | ⭐ 0 | 4 days ago |
 
 ## 📊 Languages
 
@@ -70,7 +70,7 @@ Janky Dev isn't a studio: no investors, no Jira board silently judging us. A sma
 
 <div align="center">
 
-<!-- Last updated on Wed Nov 04 2026 04:33:46 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Wed Nov 04 2026 13:40:43 GMT+0000 (Coordinated Universal Time) ;-;-->
 <sub>last updated 4th November 2026 using magic · <a href="https://github.com/Janky-Development">@Janky-Development</a></sub>
 
 </div>
