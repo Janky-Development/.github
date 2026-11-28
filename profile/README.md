@@ -61,7 +61,7 @@ Janky Dev isn't a studio: no investors, no Jira board silently judging us. A sma
 | ---- | -------- | ----- | --------- |
 | [.github](https://github.com/Janky-Development/.github) | JavaScript | ⭐ 0 | today |
 | [Fake-Player-plugin-2.0](https://github.com/Janky-Development/Fake-Player-plugin-2.0) | Java | ⭐ 11 | 6 days ago |
-| [Janky-Paper](https://github.com/Janky-Development/Janky-Paper) | Java | ⭐ 0 | 11 days ago |
+| [Janky-Paper](https://github.com/Janky-Development/Janky-Paper) | Java | ⭐ 0 | 12 days ago |
 | [Scripted-SMP-Core-Public](https://github.com/Janky-Development/Scripted-SMP-Core-Public) | - | ⭐ 0 | 12 days ago |
 
 ## 📊 Languages
@@ -70,7 +70,7 @@ Janky Dev isn't a studio: no investors, no Jira board silently judging us. A sma
 
 <div align="center">
 
-<!-- Last updated on Sat Nov 28 2026 00:58:34 GMT+0000 (Coordinated Universal Time) ;-;-->
+<!-- Last updated on Sat Nov 28 2026 14:57:13 GMT+0000 (Coordinated Universal Time) ;-;-->
 <sub>last updated 28th November 2026 using magic · <a href="https://github.com/Janky-Development">@Janky-Development</a></sub>
 
 </div>
